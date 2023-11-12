@@ -10,8 +10,8 @@ body{
 }
 .container{
     margin: 67px;
-    height: 500px; 
-    width: 795px;
+    height: 753px; 
+    width: 1283px;
     background-color: black;
     padding: 20px;
     border: 3px solid red;
@@ -38,8 +38,8 @@ button{
     font-weight: 700;
 }
 iframe{
-    height: 420px;
-    width: 785px;
+    height: 650px;
+    width: 1275px;
     border: 3px solid red;
 }
 .header-line a{
